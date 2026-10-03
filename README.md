@@ -1,0 +1,2 @@
+# premium-twist-drill-001-twist-drill-forging-flute-gr
+Tired of losing track of your twist drill forging parameters and flute grind angles? The Twist Drill Forging &amp; Flute Grind Craft Lab brings order to your workshop's chaos.  This Notion template centralizes all your drill design specs, heat treat logs, and grind settings. No more sticky notes or lost notebooks. Everything in one searchable database,
